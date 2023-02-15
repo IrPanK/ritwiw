@@ -30,11 +30,14 @@
     "@tsconfig/next": "^1.0.5",
     "@typescript-eslint/eslint-plugin": "^5.52.0",
     "@typescript-eslint/parser": "^5.52.0",
+    "autoprefixer": "^10.4.13",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-react": "^7.32.2",
     "husky": "^8.0.0",
     "next-stride": "^2.5.0",
-    "prettier": "^2.8.4"
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.4",
+    "tailwindcss": "^3.2.6"
   }
 }

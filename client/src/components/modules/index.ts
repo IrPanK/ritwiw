@@ -1,1 +1,5 @@
 export * from './HomeModule'
+export * from './DashboardModule'
+export * from './EditModule'
+export * from './SettingModule'
+export * from './ProfileModule'

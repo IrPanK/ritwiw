@@ -6,6 +6,8 @@
 - jalankan perintah yarn dev pada folder client untuk menjalankan bagian FE
 - jalankan perintah yarn start:dev pada folder server untuk menjalankan bagian BE
 
+-----------------------------------------------------------------------
+
 .env pada client (FE)
 NEXT_PUBLIC_SERVER_ENDPOINT=http://localhost:5000
 

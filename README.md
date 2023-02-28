@@ -9,13 +9,14 @@
 .env pada client (FE)
 NEXT_PUBLIC_SERVER_ENDPOINT=http://localhost:5000
 
-# firebase config
 NEXT_PUBLIC_API_KEY=AIzaSyAvTGvtoNSj0P-9agP_1VxWQv8llH2RI3U
 NEXT_PUBLIC_AUTH_DOMAIN=ritwiw-bd48c.firebaseapp.com
 NEXT_PUBLIC_PROJECT_ID=ritwiw-bd48c
 NEXT_PUBLIC_STORAGE_BUCKET=ritwiw-bd48c.appspot.com
 NEXT_PUBLIC_MESSAGING_SENDER_ID=337966245099
 NEXT_PUBLIC_APP_ID=1:337966245099:web:ce635e5616dd16cb570aae
+
+-----------------------------------------------------------------------
 
 .env pada server (BE)
 APP_WHITELIST=http://localhost:3000
